@@ -1,0 +1,36 @@
+{
+    "colors": {
+        "primaryColor": "#232832",
+        "secondaryColor": "#282F3B",
+        "tertiaryColor": "#404855",
+        "textColor": "#EEF1F7",
+        "highlightColor": "#FF1D25"
+    },
+    "card": {
+        "padding": "calc(1rem + 1vw)",
+        "fontSize": {
+            "title": "calc(2.5rem + 2vw)",
+            "subtitle": "calc(1.5rem + 1vw)",
+            "description": "calc(1rem + 1vw)"
+        }
+    },
+    "screens": {
+        "logo": {
+            "width": "calc(10rem + 10vw)",
+            "height": "calc(10rem + 10vw)"
+        },
+        "padding": {
+            "container": "calc(1rem + 1vw)",
+            "link": "calc(0.8rem + 0.4vw)"
+        },
+        "margin": {
+            "container": "calc(0.5rem + 0.5vw)",
+            "input": "calc(1rem + 1vw)"
+        },
+        "fontSize": {
+            "title": "calc(2rem + 2vw)",
+            "subtitle": "calc(1.5rem + 1vw)",
+            "text": "calc(1rem + 1vw)"
+        }
+    }
+}
